@@ -169,6 +169,17 @@ input[type=text].field:focus {
 
 #wrapper #articles article a:hover{background-color: #7feb9d;}
 
+/* style page about me */
+#about_us{
+    width: 100%;
+    float: left;
+    background-color: #fafafa;
+    border-radius: 5px;
+    border: 1px solid silver;
+    box-sizing: border-box;
+    padding: 1%;
+}
+
 /* main block */
 
 #main_soc_block{
