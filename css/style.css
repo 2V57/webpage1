@@ -180,6 +180,58 @@ input[type=text].field:focus {
     padding: 1%;
 }
 
+/* Html5 and css3 style */
+form{
+    width: 60%;
+    margin-left: 20%;
+    float: left;
+}
+
+form label{
+    float: left;
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+form input{
+    border-radius: 5px;
+    border: 2px solid silver;
+    padding: 5px;
+    float: left;
+    clear: both;
+    background-color: #fafafa;
+    width: 40%;
+    margin-bottom: 10px;
+}
+
+form input:focus, form textarea:focus{border: 2px solid #f58b8b}
+
+form textarea{
+    width: 60%;
+    float: left;
+    clear: both;
+    background-color: #fafafa;
+    border: 2px solid silver;
+    border-radius: 5px;
+    padding: 10px;
+    font-size: 1.7em;
+}
+
+form #send{
+    float: left;
+    padding: 10px;
+    background-color: #f37a7a;
+    border-radius: 5px;
+    margin-top: 10px;
+    font-size: 2em;
+    color: #fff;
+    cursor: pointer;
+}
+
+form #send:hover{
+    background-color: #bdf37a;
+}
+
 /* main block */
 
 #main_soc_block{
