@@ -126,13 +126,36 @@ input[type=text].field:focus {
 
 #wrapper #articles article{
     float: left;
-    width: 31.3333%;
     border: 1px solid silver;
     box-sizing: border-box;
     border-radius: 5px;
     background-color: #fafafa;
-    margin-right: 2%;
     min-height: 400px;
+}
+
+/* todo doesn't work media 900px*/
+@media(min-width: 900px) {
+    #wrapper #articles article {
+        width: 31.3333%;
+        margin-right: 2%;
+    }
+}
+
+/* todo doesn't work media 700px*/
+@media(min-width: 899px) and (min-width: 700px) {
+    #wrapper #articles article {
+        width: 80%;
+        margin-left: 10%;
+        margin-bottom: 10px;
+    }
+}
+
+/* todo doesn't work*/
+@media(max-width: 699px){
+    #wrapper #articles article {
+        width: 100%;
+        margin-bottom: 10px;
+    }
 }
 
 #wrapper #articles article img {
@@ -253,6 +276,7 @@ form #send:hover{
     border: 1px solid silver;
     border-radius: 7px;
     width: 500px;
+    max-width: 98%;
 }
 
 #main_soc_block_in a{

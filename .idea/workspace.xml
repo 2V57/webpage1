@@ -4,13 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0cd3fa7d-7bdb-4ae6-9fd4-f4266f4487b9" name="Changes" comment="Created a page about me">
-      <change afterPath="$PROJECT_DIR$/www/article.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www/auth.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www/httmlcss.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www/reg.html" afterDir="false" />
+    <list default="true" id="0cd3fa7d-7bdb-4ae6-9fd4-f4266f4487b9" name="Changes" comment="Created a page article, auth, reg and httmlcss">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/www/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/www/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +51,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1690728330348</updated>
-      <workItem from="1690728331899" duration="6498000" />
+      <workItem from="1690728331899" duration="9230000" />
     </task>
     <task id="LOCAL-00001" summary="My first task">
       <option name="closed" value="true" />
@@ -81,7 +77,23 @@
       <option name="project" value="LOCAL" />
       <updated>1690729958817</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Created a page article, auth, reg and httmlcss">
+      <option name="closed" value="true" />
+      <created>1690736356875</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1690736356875</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Created a page article, auth, reg and httmlcss">
+      <option name="closed" value="true" />
+      <created>1690736446595</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1690736446595</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -102,6 +114,7 @@
     <MESSAGE value="My first task" />
     <MESSAGE value="My first task1" />
     <MESSAGE value="Created a page about me" />
-    <option name="LAST_COMMIT_MESSAGE" value="Created a page about me" />
+    <MESSAGE value="Created a page article, auth, reg and httmlcss" />
+    <option name="LAST_COMMIT_MESSAGE" value="Created a page article, auth, reg and httmlcss" />
   </component>
 </project>
